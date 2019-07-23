@@ -1,0 +1,22 @@
+{"author_id":"mercury0314","clicks":"5","ctr":0.13888888888889,"impressions":"36","position":5.0833333333333,"keyword":"初戀的情人演員","url":"https://mercury0314.pixnet.net/blog/post/465030929","country":"twn","device":"MOBILE","date":"20181023","category":"戀愛情事"}
+
+{"author_id":"shushuma","clicks":"3","ctr":0.6,"impressions":"5","position":1.2,"keyword":"我多喜歡你你會知道 吉他譜","url":"https://shushuma.pixnet.net/blog/post/345446092","country":"twn","device":"MOBILE","date":"20180811","category":"戀愛情事"}
+
+{"author_id":"ayumi0218","clicks":"3","ctr":0.11538461538462,"impressions":"26","position":2.6923076923077,"keyword":"初衣食午","url":"http://ayumi0218.pixnet.net/blog/post/458051687","country":"twn","device":"DESKTOP","date":"20180701","category":"活動紀錄"}
+
+{"author_id":"gn00116743","clicks":"3","ctr":0.6,"impressions":"5","position":5.6,"keyword":"燒炭準備","url":"https://gn00116743.pixnet.net/blog/post/8803508","country":"twn","device":"MOBILE","date":"20180731","category":"戀愛情事"}
+
+{"author_id":"famous1993","clicks":"1","ctr":0.013888888888889,"impressions":"72","position":1,"keyword":"棕色","url":"http://famous1993.pixnet.net/blog/post/41142977","country":"twn","device":"MOBILE","date":"20190422","category":"視覺設計"}
+
+{"author_id":"victorsong","clicks":"1","ctr":0.038461538461538,"impressions":"26","position":3,"keyword":"本能寺之變","url":"http://victorsong.pixnet.net/blog/post/389424952","country":"twn","device":"MOBILE","date":"20190518","category":"政論人文"}
+
+{"author_id":"timeboy","clicks":"1","ctr":0.021276595744681,"impressions":"47","position":5.6382978723404,"keyword":"whether","url":"http://timeboy.pixnet.net/blog/post/25705091","country":"twn","device":"MOBILE","date":"20190429","category":"政論人文"}
+
+{"author_id":"wujiayu520","clicks":"2","ctr":0.043478260869565,"impressions":"46","position":6.4130434782609,"keyword":"彼岸花","url":"https://wujiayu520.pixnet.net/blog/post/248224403","country":"mys","device":"MOBILE","date":"20190107","category":"戀愛情事"}
+
+{"author_id":"chehan0310","clicks":"3","ctr":0.375,"impressions":"8","position":4.5,"keyword":"拋棄繼承","url":"http://chehan0310.pixnet.net/blog/post/181263760","country":"twn","device":"TABLET","date":"20190521","category":"政論人文"}
+
+{"author_id":"ericjc","clicks":"1","ctr":0.043478260869565,"impressions":"23","position":6.4782608695652,"keyword":"autocad 教學","url":"http://ericjc.pixnet.net/blog/post/161373899","country":"hkg","device":"DESKTOP","date":"20190318","category":"視覺設計"}
+
+{"author_id":"beiyuoo","clicks":"3","ctr":0.6,"impressions":"5","position":2.4,"keyword":"ig上傳gif","url":"https://beiyuoo.pixnet.net/blog/post/123905960","country":"twn","device":"MOBILE","date":"20180930","category":"視覺設計"}
+
