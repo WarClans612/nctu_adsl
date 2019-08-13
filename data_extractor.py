@@ -2,6 +2,7 @@
 # coding: utf-8
 # Developer: Wilbert (wilbert.phen@gmail.com)
 
+import json
 import gzip
 import zipfile
 import os
@@ -150,7 +151,7 @@ def PixnetArticle():
 if __name__ == '__main__':
     dataset = GoogleData()
     for index, data in enumerate(dataset):
-        print(data)
+        print(json.loads(data))
         if index == 10:
             break
 
@@ -161,30 +162,30 @@ if __name__ == '__main__':
 
     dataset = HotelsPixnetlog('HotelsCombined_log_referrer_url_articles.zip')
     for index, data in enumerate(dataset):
-        print(data)
+        print(json.loads(data))
         if index == 1:
             break
 
     dataset = HotelsPixnetTransaction()
     for index, data in enumerate(dataset):
-        print(data)
+        print(json.loads(data))
         if index == 10:
             break
 
     dataset = VisitLog('PIXNET_visit_log_url_articles.gz')
     for index, data in enumerate(dataset):
-        print(data)
+        print(json.loads(data))
         if index == 10:
             break
 
     dataset = EventLog('PIXNET_event_log_url_articles.zip')
     for index, data in enumerate(dataset):
-        print(data)
+        print(json.loads(data))
         if index == 10:
             break
 
     dataset = PixnetArticle()
     for index, data in enumerate(dataset):
-        print(data)
+        print(json.loads(data))
         if index == 10:
             break
