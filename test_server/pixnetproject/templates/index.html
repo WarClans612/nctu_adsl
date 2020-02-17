@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+  <title>旅客邦</title>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.css">
+</head>
+<body style="margin:100px">
+  {% load static %}
+  <center>
+    <br><br><br>  
+    <img src="https://i.imgur.com/aIE76Tr.jpg" style="width:17%">
+  </center>
+
+
+  <form class="ui form" action='/tripapp/group' method="POST">
+    {% csrf_token %}
+    <center>
+    <div class="field">
+    <div class="ui action left icon input" style="width:50%">
+    <i class="search icon"></i>
+    <input type="text" placeholder="Search" name="Search">
+    <button class="ui button"  type="submit" id="submit" >Submit</button>
+    
+    </div>
+    <br>
+    <div class="ui pointing label">
+      Try to enter places like 南投, 澎湖, 雲林, 台南, 嘉義 etc. 
+    </div>
+    
+    
+    </div> 
+    </center>     
+  </form>
+ 
+
+
+  
+  <!-- <div class="ui tag labels" style="margin:0px 470px">
+    <a class="ui label">
+      台北
+    </a>
+    <a class="ui label">
+      台南
+    </a>
+    <a class="ui label">
+      宜蘭
+    </a>
+    <a class="ui label">
+      花蓮
+    </a>
+    <a class="ui label">
+      台中
+    </a>
+    <a class="ui label">
+      綠島
+    </a>
+  </div> -->
+  
+  
+
+</body>
+</html>
